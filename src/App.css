@@ -1,0 +1,88 @@
+#App {
+  text-align: center;
+  position: relative;
+  background: #FFFFFF;
+  
+}
+
+
+
+#t1{
+  left: 50px;
+  top: 20px;
+
+  position: absolute;
+  font-family: "Inconsolata", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 25px;
+  letter-spacing: -0.08em;
+  text-transform: uppercase;
+  color: #333333;
+}
+
+#img{
+  height: 340px;
+  width: 350px;
+  border-radius: 0px;
+  
+}
+
+#t2{
+  position: relative;
+  width: 300px;
+
+  font-family: "Space Mono", sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 64px;
+  letter-spacing: -0.035em;
+  text-align: left;
+
+/* Gray 1 */
+
+  color: #333333;
+}
+
+#t3{
+  position: relative;
+  width: 250px;
+
+  font-family: Space Mono;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 21px;
+  line-height: 36px;
+  letter-spacing: -0.035em;
+  text-align: left;
+  /* Gray 2 */
+
+  color: #4F4F4F;
+}
+
+#btn{
+  color: #FFFFFF;
+  background-color: #333333;
+  border-radius: 0;
+  height: 50px;
+  width: 150px;
+  font-family: 'Space Mono';
+  font-size: 9px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 21px;
+  letter-spacing: -0.035em;
+  float: left;
+  margin-top: 15px;
+}
+
+
+#t4{
+  position: fixed; 
+  padding: 10px 10px 0px 10px; 
+  bottom: 0; 
+  width: 100%; 
+  height: 40px;         
+}
