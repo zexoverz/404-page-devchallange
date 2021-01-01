@@ -15,7 +15,7 @@ function App() {
             <img src={scarecrow} alt="img" id="img"></img>
           </Box>
 
-          <Box flexDirection="col" flexWrap="wrap" p='0px 20px' width="300px"> 
+          <Box flexDirection="col" flexWrap="wrap" p='0px 20px' width="350px"> 
           <Typography id="t2">I have bad news for you</Typography>
           <p id="t3">The page you are looking for might be removed or is temporarily unavailable</p>
           <Button id="btn" className="left">Back to homepage</Button>
